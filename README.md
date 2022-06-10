@@ -2,11 +2,7 @@
 
 The notebooks can be run interactively on MyBinder.com by clicking on the button below:
 
-
-[![Binder](https://mybinder.org/v2/gh/constanzamunoz/Smart_cities_project_Report-Cuesta_Dori_Granollers_Munoz/99491e6d78525c79f4671fec693faaeaea39bce5?urlpath=lab%2Ftree%2FReport.ipynb)
-
-
-Copy markdown link to clipboard 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/constanzamunoz/Smart_cities_project_Report-Cuesta_Dori_Granollers_Munoz/99491e6d78525c79f4671fec693faaeaea39bce5?urlpath=lab%2Ftree%2FReport.ipynb)
 
 ## Tutorials
 - t01: Read weather data and solar radiation from EnergyPlus files.
