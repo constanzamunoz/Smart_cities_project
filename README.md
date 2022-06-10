@@ -3,7 +3,7 @@
 The notebooks can be run interactively on MyBinder.com by clicking on the button below:
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/constanzamunoz/Smart_cities_project_Report-Cuesta_Dori_Granollers_Munoz/main?labpath=https%3A%2F%2Fgithub.com%2Fconstanzamunoz%2FSmart_cities_project%2Fblob%2Fmain%2FReport.ipynb)
+[![Binder](https://mybinder.org/v2/gh/constanzamunoz/Smart_cities_project_Report-Cuesta_Dori_Granollers_Munoz/99491e6d78525c79f4671fec693faaeaea39bce5?urlpath=lab%2Ftree%2FReport.ipynb)
 
 
 Copy markdown link to clipboard 
